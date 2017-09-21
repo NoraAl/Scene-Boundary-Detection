@@ -11,7 +11,7 @@ You can put any mp4 video inside the directory `data` for test.
 - **Video extensions**: MP4.
 
 ## Build
-The project can be built with [CMake](https://cmake.org). Once cloned, cd to the repository (i.e. SceneDetection), and you can follow the below steps:
+The project can be built with [CMake](https://cmake.org). Once cloned, cd to the repository (i.e. Scene-Boundary-Detection), and you can follow the below steps:
 
 ```sh
 $ mkdir build
